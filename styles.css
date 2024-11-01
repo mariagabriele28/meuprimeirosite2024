@@ -8,5 +8,5 @@ header {
     text-align: center;
     font-size: 32px;
     padding: 10px;
-    border-bottom: solid 2px rgb(240, 100, 193);
+    border-bottom: solid 2px rgba(240, 100, 193, 0.678);
 }
