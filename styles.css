@@ -11,7 +11,7 @@ header {
     border-bottom: solid 2px rgba(250, 39, 180, 0.514);
 }
 
-,primeirovideo {
+.primeirovideo {
     background-color: azure;
     padding-bottom: 80px;
     padding-top: 80px;
@@ -32,4 +32,27 @@ h1{
 
 p{
     font-size: 20px;
+}
+
+
+
+.videos {
+    display:flex;
+    overflow-x:autp;
+    gap:10px
+}
+
+.outrosvideos{
+    padding-left:20px;
+    padding-right:20px;
+}
+
+.videos img{
+    opacity:0.8;
+    heighy:150px;
+}
+
+.videos img:hover{
+    opacity:1.0;
+    border:2px solid green;
 }
