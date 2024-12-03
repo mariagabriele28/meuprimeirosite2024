@@ -15,7 +15,7 @@ header {
     background-color: rgb(243, 108, 207);
     padding-bottom: 80px;
     padding-top: 80px;
-    display: flex;
+    display:flex;
     justify-content: center;
 }
 
@@ -38,7 +38,7 @@ p{
 
 .videos {
     display:flex;
-    overflow-x:autol;
+    overflow-x:auto;
     gap:10px
 }
 
