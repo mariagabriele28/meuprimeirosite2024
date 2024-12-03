@@ -8,11 +8,11 @@ header {
     text-align: center;
     font-size: 32px;
     padding: 10px;
-    border-bottom: solid 2px rgba(250, 39, 180, 0.514);
+    border-bottom: solid 2px rgba(244, 3, 164, 0.972);
 }
 
 .primeirovideo {
-    background-color: azure;
+    background-color: rgb(243, 108, 207);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
