@@ -38,7 +38,7 @@ p{
 
 .videos {
     display:flex;
-    overflow-x:autp;
+    overflow-x:autol;
     gap:10px
 }
 
